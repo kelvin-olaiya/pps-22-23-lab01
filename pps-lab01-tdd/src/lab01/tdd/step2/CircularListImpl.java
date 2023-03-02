@@ -1,11 +1,8 @@
 package lab01.tdd.step2;
 
-import java.util.*;
-import java.util.function.Function;
-import java.util.function.IntUnaryOperator;
-import java.util.function.Supplier;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
 public class CircularListImpl implements CircularList {
 
